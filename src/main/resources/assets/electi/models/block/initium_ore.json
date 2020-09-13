@@ -1,0 +1,6 @@
+{
+	"parent" : "block/cube_all",
+	"textures" : {
+		"all" : "electi:block/initium_ore"
+	}
+}

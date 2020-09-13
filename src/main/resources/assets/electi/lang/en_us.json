@@ -1,0 +1,11 @@
+{
+	"item.electi.initium_shard" : "Initium Shard",
+	"block.electi.initium_ore" : "Initium Ore",
+	"itemGroup.electi.electi_group" : "Electi",
+	"item.electi.relic_rapidity" : "Relic of Rapidity",
+	"item.electi.relic_power" : "Relic of Power",
+	"item.electi.relic_mobility" : "Relic of Mobility",
+	"item.electi.relic_protection" : "Relic of Protection",
+	"item.electi.relic_agility" : "Relic of Agility"
+
+}
